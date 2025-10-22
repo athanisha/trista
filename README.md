@@ -1,1 +1,5 @@
-# trista
+Dengan project ini kami ingin membuat sebuah forum OSIS, yang dimana semua masyarakat sekolah bisa mengakses.
+dimana berisi tentang informasi terbaru terkait sekolah, informasi lomba tingkat kecamatan-kabupaten-provinsi, serta bisa menyampaikan kritik dan saran tentang kerja OSIS, lingkungan, kebijakan baru di sekolah.
+Mungkin untuk panitia yang membuka nya agak bingung dan berpikir bahwa project ini belum selesai sama sekali.bisa dikatakan iya, namun saya dan rekan saya bingung dari ACTIONS yang terus memunculkan websute pelatihan kemarin. alhasil saya reset/hapus repository, saya buat ulang dan saya lupa mengaktifkan judul ACTIONS sebelumnya.
+kami memakai 2 laptop, pengerjaan awal di laptop teman saya bisa. dan website tersebut muncul.. namun saat saya pindah di laptop saya ini. tiba-tiba tidak muncul. kembali lagi tampilannya di website pelatihan. jadi sebenarnya web ini bisa dibuka namun ACTIONS nya yang salah. 
+mengapa tak langsung di uploud saja sama temen saya di laptop yang bisa, teman saya PKL jadi laptop terpaksa dikembalikan ke sekolah, dan saya yang melnjutkn.
